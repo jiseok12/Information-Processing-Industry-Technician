@@ -1,1 +1,1 @@
-# Information-Processing-Industry-Technician
+# 정보처리산업기능사 실기
